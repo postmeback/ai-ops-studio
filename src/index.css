@@ -1,0 +1,23 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.text-green-600{
+  color: green;
+}
+
+.text-yellow-600{
+  color: brown;
+}
+
+.text-red-600{
+  color: red;
+}
+
+.text-gray-600{
+  color: gray;
+}
